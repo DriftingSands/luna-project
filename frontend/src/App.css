@@ -1,0 +1,8 @@
+.App {
+  margin: 0;
+}
+
+/* Header: 71px, Footer: 95px */
+.appBodyDiv {
+  height: calc(100vh - 71px - 95px);
+}
